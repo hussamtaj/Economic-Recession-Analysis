@@ -1,1 +1,5 @@
 # Economic-Recession-Analysis
+
+## Abstract
+
+This paper explains the effects of an economic recession on a country’s economy and its financial, psychological, social, and mental repercussions on its society. It will be imperative to counter these issues by getting a prediction or an indication for an upcoming recession. This way people can get ahead prepare better for tough financial times and feel more comfortable about their financial situation. Although it is impossible to accurately predict the next economic recession because there are so many factors that cannot be foreseen through computational techniques such as a pandemic like COVID-19.  There are five variables that have historically provided some precise signs and indications for an upcoming recession which are the  yield curve, unemployment rate, gdp output, consumer confidence and the stock market. I used three of these variables – the yield curve, unemployment rate, and GDP output – and machine learning techniques including Generalized Additive Models and Random Forest to analyze and indicate the next economic recession
